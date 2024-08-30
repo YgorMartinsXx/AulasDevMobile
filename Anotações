@@ -1,0 +1,37 @@
+                                            Dev Mobile
+
+ 1 - usaremos dart, linguagem semelhante a java,c#.
+
+ 2 - linguagem fortemente tipada.
+
+ 3 - capacidade defenir o escopo de variaveis e declarar variaveis sem valores.
+
+ 4 - framework flutter. que nos permite portabilidade multiplataforma.
+
+-----------------------------------------------
+
+Conceitos POO com dart
+
+
+Classes - Definidas com a palavra-chave "class", encapsulam dados e métodos, representado objetos.
+
+Herança - utiliza a palavra-chave "extends" para criar subclasses que herdam propriedades e métodos de superclasses.
+
+Abstração - Permite definir contratos (interfaces) que classes devem implementar, promovendo flexibilidade e reutilização.
+
+Encapsulamento - Permite que o desenvolvedor garanta a segurança e privacidade de atributos e métodos.
+
+interfaces - No dart usaremos interfaces para simularmos multiplas heranças
+
+----------------------------------------------
+
+Operações com listas no dart
+
+
+Sort() - Ordena a lista em ordem crescente ou decrescente, com base em um comparador.
+
+where() - Filtra a lista, retornando uma nova lista com elementos que atendem a uma condição específica.
+
+map() - Transforma cada elemento da lista em um novo elemento, retornando uma nova lista com os elementos transformados.
+
+reduce() - Combina os elementos da lista em um único valor, utilizando uma função de redução.
